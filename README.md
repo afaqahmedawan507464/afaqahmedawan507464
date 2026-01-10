@@ -1,5 +1,5 @@
 <h1 align="center">Afaq Ahmed Awan</h1>
-<h3 align="center">Software Engineer | Full Stack Web Developer</h3>
+<h3 align="center">Software Engineer | PHP & Laravel Web Developer</h3>
 
 <p align="center">
   <a href="mailto:afaq.ahmed.awan729@gmail.com">
