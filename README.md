@@ -1,27 +1,28 @@
-<h1 align="center">Afaq Ahmed Awan</h1>
-<h3 align="center">Software Engineer | PHP & Laravel Web Developer</h3>
+<!-- HEADER -->
+<div align="center">
+  <h1>Afaq Ahmed Awan</h1>
+  <p>Software Engineer | PHP & Laravel Web Developer</p>
 
-<p align="center">
-  <a href="mailto:afaq.ahmed.awan729@gmail.com">
-    <img src="https://img.shields.io/badge/Email-afaq.ahmed.awan729%40gmail.com-red?style=flat-square" />
-  </a>
-  <a href="https://github.com/afaqahmedawan507464">
-    <img src="https://img.shields.io/badge/GitHub-afaqahmedawan507464-black?style=flat-square" />
-  </a>
-</p>
-
-<hr />
-
-## About Me
-
-I am a Software Engineer with hands on experience in building scalable web applications.  
-I work comfortably across frontend and backend, focusing on clean code, performance, and real business requirements.
-
-I have developed complete systems from scratch, handled third party integrations, and maintained production level applications.
+  <!-- Badges -->
+  <p>
+    <a href="mailto:afaq.ahmed.awan729@gmail.com">
+      <img src="https://img.shields.io/badge/Email-afaq.ahmed.awan729%40gmail.com-red?style=flat-square" />
+    </a>
+    <a href="https://github.com/afaqahmedawan507464">
+      <img src="https://img.shields.io/badge/GitHub-afaqahmedawan507464-black?style=flat-square" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Work-green?style=flat-square" />
+  </p>
+</div>
 
 ---
 
-## Tech Stack
+## ABOUT ME
+I build web applications that solve real business problems. I work on both frontend and backend, clean code, and practical UI.
+
+---
+
+## TECHNOLOGY STACK
 
 ### Frontend
 <p>
@@ -30,7 +31,7 @@ I have developed complete systems from scratch, handled third party integrations
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 
@@ -51,95 +52,64 @@ I have developed complete systems from scratch, handled third party integrations
 
 ---
 
-## Work Experience
+## EXPERIENCE
 
-### Backend Developer  
+### Backend Developer
 **Codemindz Technologies**  
 Jan 2022 – Dec 2024
-
 - Built backend systems using Laravel and CodeIgniter
-- Designed REST APIs for frontend and integrations
-- Integrated Stripe, Google Drive, OneDrive, Dropbox
-- Worked with MySQL and PostgreSQL databases
-- Maintained and optimized production applications
+- Created REST APIs for frontend and services
+- Integrated Stripe and cloud storage APIs
+- Worked with MySQL and PostgreSQL
+- Maintained applications and fixed bugs
 
-### Computer Operator  
+### Computer Operator
 **Scope Visions**  
 Dec 2018 – Oct 2021
-
-- Data handling and system operations
-- Office documentation and reporting
-
----
-
-## Featured Projects
-
-### Invoice Management System (Laravel)
-**Role:** Full Stack Developer  
-
-- Stock and inventory management  
-- Employee attendance and expenses  
-- Client, quotation, and invoice handling  
-- Delivery challan and service reports  
-
-Repository  
-https://github.com/afaqahmedawan507464/invoiceManagmentSystem
+- Data operations and system tasks
+- Documentation and reporting
 
 ---
 
-### Warehouse Management System (CodeIgniter 4)
-**Role:** Full Stack Developer  
+## FEATURED PROJECTS
 
-- User roles and permissions  
-- Inventory, racking, and stock control  
-- Transfers, purchasing, and invoices  
-- Barcode generation  
-
-Repository  
-https://github.com/afaqahmedawan507464/warehouse  
-
-Live Application  
-https://app.willowbyte.com (private)
+### Invoice Management System
+**Laravel Full Stack**
+- Stock, invoice, client, and attendance modules
+- Expense and delivery challan handling  
+**GitHub:** https://github.com/afaqahmedawan507464/invoiceManagmentSystem
 
 ---
 
-### Expense Management System (Next.js)
-**Role:** Backend Stack Developer  
-
-- NextAuth based authentication  
-- Stripe subscriptions  
-- Google Drive, OneDrive, Dropbox integrations  
-- Redux state management  
-
-Status  
-Private repository, under development
+### Warehouse Management System
+**CodeIgniter 4 Full Stack**
+- Inventory, transfers, barcode and invoice modules  
+**GitHub:** https://github.com/afaqahmedawan507464/warehouse
 
 ---
 
-## Education
-
-- DAE Electrical, GCT Taxila (2015–2018)  
-- Matric with Science, Govt Taleem ul Quran High School (2010–2015)
+### Pak Wheel React Tech Landing
+**React Frontend**
+- Responsive landing page  
+**GitHub:** https://github.com/afaqahmedawan507464/reactPakWheelDemoLandPage
 
 ---
 
-## Certifications
+## EDUCATION
+- **DAE Electrical** – GCT Taxila (2015–2018)  
+- **Matric with Science** – Govt. Taleem ul Quran High School (2010–2015)
 
+---
+
+## CERTIFICATIONS
 - DAE Electrical  
 - Computer Information Technologies (DigiSkills)  
 - WordPress Designer (DigiSkills)
 
 ---
 
-## Interests
-
-- Cricket  
-- Traveling  
-- Reading detective novels  
-
----
-
-## Contact
-
-- Email: afaq.ahmed.awan729@gmail.com  
-- GitHub: https://github.com/afaqahmedawan507464
+## CONTACT
+<p>
+  <a href="mailto:afaq.ahmed.awan729@gmail.com">Email</a> |
+  <a href="https://github.com/afaqahmedawan507464">GitHub</a>
+</p>
