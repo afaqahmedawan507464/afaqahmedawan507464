@@ -93,7 +93,7 @@ Key projects:
   - banking,
   - quotations,
   - invoices, and reports.
-  - 
+
 3): Record Management System (Laravel 12):
   - Role management
   - location-based records
