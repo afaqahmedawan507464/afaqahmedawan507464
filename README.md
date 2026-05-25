@@ -85,7 +85,7 @@ Key projects:
   - inventory tracking,
   - transfers,
   - barcoding, and invoicing.
-  - 
+    
 2): Invoice Management System (Laravel):
   - Stock,
   - attendance,
